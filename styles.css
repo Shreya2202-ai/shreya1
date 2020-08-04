@@ -1,0 +1,19 @@
+#header-nav{
+	background-color:pink;
+	min-height: 50px;
+	border-color: green;
+	border-radius: 10px;
+	border: 10px;
+}
+h1
+{
+	font-color:black;
+
+}
+#logo-img{
+	background:url('https://media.entertainmentearth.com/assets/images/97b20c898ee04c54aed1b036e0d97c27.jpg')no-repeat;
+	width:200px;
+	height:200px;
+	
+
+}
