@@ -1,6 +1,6 @@
 #header-nav{
-	background-color:pink;
-	min-height: 50px;
+	background-color:orange;
+	min-height: 40px;
 	border-color: green;
 	border-radius: 10px;
 	border: 10px;
@@ -12,7 +12,7 @@ h1
 }
 #logo-img{
 	background:url('https://media.entertainmentearth.com/assets/images/97b20c898ee04c54aed1b036e0d97c27.jpg')no-repeat;
-	width:200px;
+	width:150px;
 	height:150px;
 	
 
