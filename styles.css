@@ -1,13 +1,16 @@
 #header-nav{
-	background-color:orange;
+	background-color:#800080;
 	min-height: 40px;
-	border-color: green;
-	border-radius: 10px;
-	border: 10px;
+	
+	
+	
 }
-h1
+#mew
 {
 	font-color:black;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 100px;
 
 }
 #logo-img{
@@ -16,4 +19,20 @@ h1
 	height:150px;
 	
 
+}
+#asq{
+	background-image:  url('https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/Maine-Coon_02.jpg?bust=1538150418&width=2000');
+
+
+width: 100vw;
+height: 100vh; 
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;
+} 
+
+
+nav
+{
+overflow: auto;
 }
